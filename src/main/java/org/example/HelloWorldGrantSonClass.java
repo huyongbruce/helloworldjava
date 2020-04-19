@@ -4,6 +4,6 @@ public class HelloWorldGrantSonClass extends HelloWorldDadClass {
 
     public String GrantSonMessage()
     {
-        return "GrantSon Message!!";
+        return "GrantSon Message!!";  
     }
 }

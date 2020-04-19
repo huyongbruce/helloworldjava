@@ -13,7 +13,7 @@ public class App
         t = new HelloWorldSonClass();
         t.SendMessage("My name is Son!!");
 
-        
+
 
         HelloWorldGrantSonClass h = new HelloWorldGrantSonClass();
         t.SendMessage(h.GrantSonMessage());
