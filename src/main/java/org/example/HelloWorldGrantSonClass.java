@@ -7,6 +7,8 @@ public class HelloWorldGrantSonClass extends HelloWorldDadClass {
         //fix hotfix0419
         //cherry-pickA
         //cherry-pickB
+        //cherry-pickC
+
         return "GrantSon Message!!";  
     }
 }
